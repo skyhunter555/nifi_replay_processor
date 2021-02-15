@@ -1,0 +1,9 @@
+/build/
+/.gradle/
+/.idea/
+/gradle/
+/gen/
+/target/
+/out/
+/nifi-replay.processor-nar/target/
+/nifi-replay.processor-processors/target/
